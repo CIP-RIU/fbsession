@@ -21,4 +21,3 @@ Session management for HIDAP-AGROFIMS
 \author{
 Omar Benites Ivan Perez
 }
-
